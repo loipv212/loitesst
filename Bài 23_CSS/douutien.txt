@@ -1,0 +1,3 @@
+độ ưu tiên giữa inline , internal, external:
+INLINE MẠNH NHÂT
+CÒN INTERNAL VÀ EXTERNAL THẰNG NÀO VIỂT SAU TRONG <HEAD>  </HEAD> THẰNG ĐÓ MẠNH HƠN
