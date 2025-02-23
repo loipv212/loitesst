@@ -1,0 +1,28 @@
+h2 {
+  /*opacity: quy định độ trong suốt */
+  /* không nhìn thấy giao diện
+    vẫn chiếm không gian
+    vẫn tương tác được */
+  /* 1. 0.0 -> 1.0
+    2. 0% -> 100% */
+  opacity: 100%;
+
+  /* display:none: ẩn phần tử khỏi giao diện(xóa cả không gian nó đang chiếm) */
+  display: none;
+
+  /* visibility: ẩn/ hiện element
+    hidden: phần tử bị ẩn nhưng vẫn chiếm không gian trong layout
+    collapse: 
+    visible: hiện */
+  /* không nhìn thấy giao diện
+    vẫn chiếm không gian
+    không tương tác được */
+  visibility: visible;
+}
+body {
+  background-image: url(./img/suyt.jpg);
+  color: rgb(43, 202, 226);
+}
+span {
+  color: blue;
+}

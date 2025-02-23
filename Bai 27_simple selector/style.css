@@ -1,0 +1,17 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+/* dung # để gọi id */
+#DoanVan2 {
+  color: blue;
+}
+/* dùng . để gọi class */
+.demo {
+  color: yellowgreen;
+}
+.demo2 {
+  font-size: small;
+}
+/* element1 + element2 tức là áp dụng cho 1 elm2 nằm ngay sát sau elm1  */
+/* element1 ~ element2 tức là áp dụng cho tất cả elm2 nằm sau elm1  */
